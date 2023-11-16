@@ -1,0 +1,14 @@
+h1 {
+    font-size: 64px;
+    margin: 0;
+    padding-top: 32px;
+    text-align: center;
+    width: 100%;
+    height: 172px;
+    background-color: gray;
+    border-radius: 8px;
+}
+
+.paragraph {
+    background-color: white;
+}
